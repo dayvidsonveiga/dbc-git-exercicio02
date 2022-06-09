@@ -1,2 +1,4 @@
 Exercicio 02 
-criado brach main e develop
+2-criado branch main e develop
+
+3,4 - Realizando alterações com branch feature/task-1
